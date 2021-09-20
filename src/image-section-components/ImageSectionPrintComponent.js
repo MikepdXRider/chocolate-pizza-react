@@ -11,7 +11,7 @@ export default class ImageSectionPrintComponent extends Component {
                 altData = 'print-icon'
                 />
                 <PComponent
-                messageData = 'PRINT'
+                textData = 'PRINT'
                 />
             </div>
         )

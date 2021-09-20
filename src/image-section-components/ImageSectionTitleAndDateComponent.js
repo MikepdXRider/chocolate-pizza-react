@@ -1,13 +1,17 @@
 import React, { Component } from 'react'
+import H1Component from '../util-components/H1Component.js'
 import PComponent from '../util-components/PComponent.js'
+
 
 export default class ImageSectionTitleAndDateComponent extends Component {
     render() {
         return (
             <div>
-                <h1>Chocolate Pizza</h1>
+                <H1Component
+                textData = 'Chocolate Pizza'
+                 />
                 <PComponent
-                messageData = 'POSTED ON 15 DEC 2013 / DESSERTS'
+                textData = 'POSTED ON 15 DEC 2013 / DESSERTS'
                 />
             </div>
         )

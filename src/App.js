@@ -1,6 +1,6 @@
 import './App.css';
 import HeaderComponent from './header-components/HeaderComponent.js';
-import ImageSectionComponent from './image-section-components.js/ImageSectionComponent.js';
+import ImageSectionComponent from './image-section-components/ImageSectionComponent.js';
 
 
 function App() {

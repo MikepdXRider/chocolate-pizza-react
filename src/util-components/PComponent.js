@@ -4,7 +4,7 @@ export default class PComponent extends Component {
     render() {
         return (
             <p>
-                {this.props.messageData}
+                {this.props.textData}
             </p>
         )
     }
