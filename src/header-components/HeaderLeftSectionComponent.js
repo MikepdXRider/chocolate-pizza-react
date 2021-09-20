@@ -1,20 +1,21 @@
 import React, { Component } from 'react'
-import { ImgComponent, PComponent } from '../util-components/ImgComponent.js'
-
-import '../App.css'
+import ImgComponent from '../util-components/ImgComponent.js'
+import PComponent from '../util-components/PComponent.js'
 
 export default class HeaderLeftSectionComponent extends Component {
     render() {
         return (
             <section className='left-header-cont'>
                 <ImgComponent
-                sourceData = 'Logo.png'
+                sourceData = 'logo.png'
                 altData = 'Main-Logo'
                 />
                 <PComponent 
-                messageData = 'Delicious' />
+                messageData = 'Delicious'
+                />
                 <PComponent 
-                messageData = 'The best food on the web' />
+                messageData = 'The best food on the web'
+                />
             </section>
         )
     }
