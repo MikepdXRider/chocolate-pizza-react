@@ -1,4 +1,5 @@
 import './App.css';
+import FooterComponent from './footer-components/FooterComponent.js';
 import HeaderComponent from './header-components/HeaderComponent.js';
 import ImageSectionComponent from './image-section-components/ImageSectionComponent.js';
 import IngredientsSectionComponent from './ingredients-list-components/IngredientsSectionComponent.js';
@@ -12,6 +13,7 @@ function App() {
       <ImageSectionComponent />
       <RecipeComponent />
       <IngredientsSectionComponent />
+      <FooterComponent />
     </div>
   );
 }
