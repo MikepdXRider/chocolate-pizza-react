@@ -1,6 +1,7 @@
 import './App.css';
 import HeaderComponent from './header-components/HeaderComponent.js';
 import ImageSectionComponent from './image-section-components/ImageSectionComponent.js';
+import RecipeComponent from './RecipeComponent.js';
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <HeaderComponent />
       <ImageSectionComponent />
+      <RecipeComponent />
     </div>
   );
 }
