@@ -1,7 +1,7 @@
 import './App.css';
 import HeaderComponent from './header-components/HeaderComponent.js';
 import ImageSectionComponent from './image-section-components/ImageSectionComponent.js';
-import RecipeComponent from './RecipeComponent.js';
+import RecipeComponent from './recipe-components/RecipeComponent.js';
 
 
 function App() {

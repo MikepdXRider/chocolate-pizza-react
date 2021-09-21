@@ -1,6 +1,7 @@
 ![Header](./public/header-plan.JPG)
 ![Image Section](./public/image-section-plan.JPG)
 ![Recipe Section](./public/recipe-section-plan.JPG)
+![Ingredient Section](./public/ingredients-section-plan.JPG)
 
 
 

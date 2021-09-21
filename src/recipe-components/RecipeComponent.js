@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import PComponent from './util-components/PComponent.js'
+import PComponent from '../util-components/PComponent.js'
 
 export default class RecipeComponent extends Component {
     render() {
