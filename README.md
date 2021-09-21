@@ -2,6 +2,7 @@
 ![Image Section](./public/image-section-plan.JPG)
 ![Recipe Section](./public/recipe-section-plan.JPG)
 ![Ingredient Section](./public/ingredients-section-plan.JPG)
+![Footer](./public/footer-plan.JPG)
 
 
 
